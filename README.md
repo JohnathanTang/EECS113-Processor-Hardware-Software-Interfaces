@@ -15,3 +15,4 @@
 
 ## Main Programming Language
 - Python 
+- Hardware Assembly Language
